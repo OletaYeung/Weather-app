@@ -123,3 +123,9 @@ h3 {
   bottom: 470px;
   left: 300px;
 }
+
+.link {
+  position: relative;
+  bottom: -60px;
+  left: 47px;
+}
