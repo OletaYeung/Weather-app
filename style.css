@@ -1,0 +1,125 @@
+.container-body {
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+.card {
+  background-color: #fcf2d6;
+  height: 460px;
+}
+.card-body {
+  position: relative;
+  top: 5px;
+}
+
+h1,
+form,
+h3 {
+  position: relative;
+  left: 20px;
+}
+
+form {
+  top: 10px;
+}
+.search,
+#location {
+  background-color: rgb(26, 105, 173);
+  color: #fff;
+  border-radius: 3px;
+}
+
+#location {
+  position: relative;
+  top: -305px;
+  left: 283px;
+}
+
+h1 {
+  color: #fd9711;
+  font-size: 30px;
+}
+
+h3 {
+  margin-top: 10px;
+}
+#time {
+  font-size: 18px;
+  position: relative;
+  left: 130px;
+  top: 20px;
+  color: rgb(49, 49, 49);
+}
+
+.date {
+  font-size: 18px;
+  position: relative;
+  left: 130px;
+  top: -19px;
+  color: rgb(49, 49, 49);
+}
+#temp {
+  font-size: 18px;
+  position: relative;
+  left: -2px;
+  top: 0px;
+  color: rgb(49, 49, 49);
+}
+#description {
+  font-size: 18px;
+  position: relative;
+  left: 130px;
+  top: -30px;
+  color: rgb(49, 49, 49);
+}
+
+#fahranheit-link,
+#celsuis-link {
+  text-decoration-line: none;
+}
+
+#sun-icon {
+  width: 150px;
+  position: relative;
+  top: -169px;
+  right: 125px;
+}
+.sun-swirl {
+  stroke-linecap: round;
+  stroke-width: 8.1px;
+}
+.sun-swirl,
+.sun-circle {
+  fill: none;
+  stroke: #fd9711;
+  stroke-width: 12px;
+}
+
+#cloud-icon {
+  position: relative;
+  top: -5px;
+}
+
+.cloud,
+.cloud-swirl {
+  stroke: #7c7c7c;
+  fill: none;
+  stroke-width: 8.5px;
+}
+
+.container {
+  position: relative;
+  left: 90px;
+  top: -100px;
+}
+.col {
+  text-align: center;
+  color: rgb(49, 49, 49);
+}
+
+.quote {
+  width: 300px;
+  position: relative;
+  bottom: 470px;
+  left: 300px;
+}
